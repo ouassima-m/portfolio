@@ -2,11 +2,28 @@
 Welkom op mijn portfolio
 Hier vind je voorbeelden van mijn werk tot nu toe.
 
-## Projecten
-1. [Persoonlijke website](https://github.com/ouassima-m/persoonlijke-website): Een responsieve website met HTML, CSS en JavaScript.
-2. [To-do lijst applicatie](https://github.com/ouassima-m/todo-app): Een interactieve to-do lijst met dynamische functionaliteit.
-
 ## Vaardigheden
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+- **Java**
+- **Kotlin**
+
+
+## Projecten
+[movie-catalogue](https://github.com/ouassima-m/movie-catalogue-mobile):
+   zoek en bekijk duizenden films met de behulp van de tmdb api.
+   - **Kotlin**
+
+   
+[PokeBuddy](https://github.com/ouassima-m/CapstonePokeBuddy-mobile):
+   Een interactieve pokedex waar bij door alle 1302 pokemons kan bekijken en ze in je pokedex kan opslaan. 
+   - **Kotlin**
+
+
+[PokeBuddy](https://github.com/ouassima-m/number-facts-generator):
+   genereer en sla een random getallen feit op.
+   - **Kotlin**
+
+
+
